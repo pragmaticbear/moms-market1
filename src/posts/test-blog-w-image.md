@@ -1,5 +1,5 @@
 ---
-title: Test Blog w/ Image
+title: Test Blog with Image
 description: adfklbvnsdkjfhbvjfhbv
 author: BF
 date: 2023-11-14T18:28:12.470Z
